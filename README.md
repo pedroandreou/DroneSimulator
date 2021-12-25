@@ -15,7 +15,7 @@ Run the [batch file](https://github.com/pedroandreou/DroneSimulator/blob/main/ru
 
 
 ## ⚠ Important
-More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#work)
+More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#DroneSimulator)
 
 ## Author  
 👨🏼 Petros Andreou
